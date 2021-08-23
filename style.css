@@ -1,0 +1,46 @@
+body{
+font-family: 'Original Surfer', cursive;
+background:plum;
+}
+.header_div{
+background:white;
+color:tomato;
+}
+.header_div img{
+width:100px;
+}
+.footer_div{
+margin-bottom:50px;
+}
+.footer_div h4{
+background: coral;
+border-radius: 10px;
+padding:5px;
+box-shadow: darksalmon 5px 5px 18px;
+}
+.footer_div img{
+width:70px;
+}
+.copy_right_foot{
+position: fixed;
+color: grey;
+bottom: 0;
+width: 100%;
+background: honeydew;
+line-height: 3;
+text-align: center;
+}
+.text_images_result{
+box-shadow: 5px 5px 5px darkorchid;
+width: 200px;
+height: 400px;
+
+}
+.image-responsive{
+height: 50px;
+width: 50px;
+}
+.bob3{
+color: dimgrey;
+text-align: justify;
+}
